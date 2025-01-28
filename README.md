@@ -10,7 +10,11 @@
 - Acesso root: ``` sudo su ```
 - Iniciando o setoolkit: ``` setoolkit ```
 - Tipo de ataque: ``` Social-Engineering Attacks ```
+![image](./pontodepartida.png)
+
 - Vetor de ataque: ``` Web Site Attack Vectors ```
+![image](./parte1.png)
+
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Site Cloner ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
