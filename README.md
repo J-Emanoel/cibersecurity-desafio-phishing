@@ -16,9 +16,16 @@
 ![image](./parte1.png)
 
 - Método de ataque: ```Credential Harvester Attack Method ```
+![image](./parte2.png)
+
+
 - Método de ataque: ``` Site Cloner ```
+![image](./parte3.png)
+
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: ```http://www.instagram.com```
+![image](./parte4.png)
+
 
 ### Resutados
 
